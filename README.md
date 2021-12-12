@@ -20,5 +20,23 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 
 ## Results
 
+### Random Oversampling
+The first algorithm tested was random oversamping. The accuracy score was 64.86%. The precision was
+The sensitivity (recall) was 62%. The F1 score was 2%. The low F1 score indicates a significant imbalance between precision and sensitivity.
+
+<img width="666" alt="ROS 1" src="https://user-images.githubusercontent.com/88804543/145696692-2cc31b5d-230e-4993-9936-e6a7f9ec8347.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Summary
