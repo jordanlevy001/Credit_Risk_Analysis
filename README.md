@@ -79,7 +79,7 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 - Sensitivity(Recall): 91%
 - F1 score: 14%
 - The low F1 score indicates a significant imbalance between precision and sensitivity.
-- 
+
 <img width="659" alt="EEC 6" src="https://user-images.githubusercontent.com/88804543/145696965-fab627b5-19cd-4c2e-bf93-941738bb7340.png">
 
 
