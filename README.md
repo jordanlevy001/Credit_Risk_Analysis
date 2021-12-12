@@ -21,7 +21,7 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 ## Results
 
 ### Random Oversampling
-The first algorithm tested was random oversamping. 
+
 - Accuracy score: 65% 
 - Precision: 1%
 - Sensitivity(Recall): 62%
@@ -31,7 +31,7 @@ The first algorithm tested was random oversamping.
 <img width="666" alt="ROS 1" src="https://user-images.githubusercontent.com/88804543/145696692-2cc31b5d-230e-4993-9936-e6a7f9ec8347.png">
 
 ### SMOTE
-The second algorithm tested was SMOTE. 
+
 - Accuracy score: 66% 
 - Precision: 1%
 - Sensitivity(Recall): 67%
@@ -41,7 +41,7 @@ The second algorithm tested was SMOTE.
 <img width="674" alt="SMOTE 2" src="https://user-images.githubusercontent.com/88804543/145696808-fdaf791a-6e5a-4b05-93fd-9d67731594fc.png">
 
 ### Random Undersampling
-The third algorithm tested was random undersampling. 
+
 - Accuracy score: 51% 
 - Precision: 1%
 - Sensitivity(Recall): 59%
@@ -49,6 +49,8 @@ The third algorithm tested was random undersampling.
 - The low F1 score indicates a significant imbalance between precision and sensitivity.
 
 <img width="682" alt="RUS 3" src="https://user-images.githubusercontent.com/88804543/145696832-29370970-7fea-4c86-a411-872ad666a5f7.png">
+
+
 
 
 
