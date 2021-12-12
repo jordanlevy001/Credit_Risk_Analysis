@@ -62,6 +62,18 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 <img width="657" alt="SMOTEENN 4" src="https://user-images.githubusercontent.com/88804543/145696909-9a96b6e3-117f-4963-afe9-93e5262ed97f.png">
 
 
+### Balanced Random Forest Classifier
+
+- Accuracy score: 80% 
+- Precision: 4%
+- Sensitivity(Recall): 68%
+- F1 score: 7%
+- The low F1 score indicates a significant imbalance between precision and sensitivity.
+
+<img width="667" alt="BRF 5" src="https://user-images.githubusercontent.com/88804543/145696953-4f09eb48-0bcf-4ec9-b100-bf5a99753422.png">
+
+
+
 
 
 
