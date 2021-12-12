@@ -40,8 +40,15 @@ The second algorithm tested was SMOTE.
 
 <img width="674" alt="SMOTE 2" src="https://user-images.githubusercontent.com/88804543/145696808-fdaf791a-6e5a-4b05-93fd-9d67731594fc.png">
 
+### Random Undersampling
+The third algorithm tested was random undersampling. 
+- Accuracy score: 51% 
+- Precision: 1%
+- Sensitivity(Recall): 59%
+- F1 score: 1%
+- The low F1 score indicates a significant imbalance between precision and sensitivity.
 
-
+<img width="682" alt="RUS 3" src="https://user-images.githubusercontent.com/88804543/145696832-29370970-7fea-4c86-a411-872ad666a5f7.png">
 
 
 
