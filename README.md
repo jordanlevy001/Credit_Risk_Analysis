@@ -26,7 +26,7 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 - Precision: 1%
 - Sensitivity(Recall): 62%
 - F1 score: 2%
-- The low F1 score indicates a significant imbalance between precision and sensitivity.
+- The low F1 score indicates a significant imbalance between precision and sensitivity
 
 <img width="666" alt="ROS 1" src="https://user-images.githubusercontent.com/88804543/145696692-2cc31b5d-230e-4993-9936-e6a7f9ec8347.png">
 
@@ -36,7 +36,7 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 - Precision: 1%
 - Sensitivity(Recall): 67%
 - F1 score: 2%
-- The low F1 score indicates a significant imbalance between precision and sensitivity.
+- The low F1 score indicates a significant imbalance between precision and sensitivity
 
 <img width="674" alt="SMOTE 2" src="https://user-images.githubusercontent.com/88804543/145696808-fdaf791a-6e5a-4b05-93fd-9d67731594fc.png">
 
@@ -46,7 +46,7 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 - Precision: 1%
 - Sensitivity(Recall): 59%
 - F1 score: 1%
-- The low F1 score indicates a significant imbalance between precision and sensitivity.
+- The low F1 score indicates a significant imbalance between precision and sensitivity
 
 <img width="682" alt="RUS 3" src="https://user-images.githubusercontent.com/88804543/145696832-29370970-7fea-4c86-a411-872ad666a5f7.png">
 
@@ -57,7 +57,7 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 - Precision: 1%
 - Sensitivity(Recall): 70%
 - F1 score: 2%
-- The low F1 score indicates a significant imbalance between precision and sensitivity.
+- The low F1 score indicates a significant imbalance between precision and sensitivity
 
 <img width="657" alt="SMOTEENN 4" src="https://user-images.githubusercontent.com/88804543/145696909-9a96b6e3-117f-4963-afe9-93e5262ed97f.png">
 
@@ -68,7 +68,7 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 - Precision: 4%
 - Sensitivity(Recall): 68%
 - F1 score: 7%
-- The low F1 score indicates a significant imbalance between precision and sensitivity.
+- The low F1 score indicates a significant imbalance between precision and sensitivity
 
 <img width="667" alt="BRF 5" src="https://user-images.githubusercontent.com/88804543/145696953-4f09eb48-0bcf-4ec9-b100-bf5a99753422.png">
 
@@ -78,7 +78,7 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 - Precision: 7%
 - Sensitivity(Recall): 91%
 - F1 score: 14%
-- The low F1 score indicates a significant imbalance between precision and sensitivity.
+- The low F1 score indicates a significant imbalance between precision and sensitivity
 
 <img width="659" alt="EEC 6" src="https://user-images.githubusercontent.com/88804543/145696965-fab627b5-19cd-4c2e-bf93-941738bb7340.png">
 
