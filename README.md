@@ -72,7 +72,15 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 
 <img width="667" alt="BRF 5" src="https://user-images.githubusercontent.com/88804543/145696953-4f09eb48-0bcf-4ec9-b100-bf5a99753422.png">
 
+### Easy Ensemble Classifier
 
+- Accuracy score: 93% 
+- Precision: 7%
+- Sensitivity(Recall): 91%
+- F1 score: 14%
+- The low F1 score indicates a significant imbalance between precision and sensitivity.
+- 
+<img width="659" alt="EEC 6" src="https://user-images.githubusercontent.com/88804543/145696965-fab627b5-19cd-4c2e-bf93-941738bb7340.png">
 
 
 
