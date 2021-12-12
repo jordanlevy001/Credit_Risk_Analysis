@@ -51,9 +51,15 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 <img width="682" alt="RUS 3" src="https://user-images.githubusercontent.com/88804543/145696832-29370970-7fea-4c86-a411-872ad666a5f7.png">
 
 
+### SMOTEEN
 
+- Accuracy score: 64% 
+- Precision: 1%
+- Sensitivity(Recall): 70%
+- F1 score: 2%
+- The low F1 score indicates a significant imbalance between precision and sensitivity.
 
-
+<img width="657" alt="SMOTEENN 4" src="https://user-images.githubusercontent.com/88804543/145696909-9a96b6e3-117f-4963-afe9-93e5262ed97f.png">
 
 
 
