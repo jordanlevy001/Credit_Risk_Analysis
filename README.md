@@ -1,7 +1,7 @@
 # Credit Risk Analysis
 
 ## Project Overview
-The goal of this project was to compare/contrast the performance of various data modeling techniques to evaluate credit card risk. Credit risk is an inherently unbalanced classification issue; good loans significantly outnumber risky loans.
+The goal of this project was to compare the performance of various data modeling techniques to evaluate credit card risk. Credit risk is an inherently unbalanced classification issue; good loans significantly outnumber risky loans.
 For this project I used the credit card credit dataset from LendingClub, a peer-to-peer lending services company. I oversampled the data using the random oversampling and SMOTE algorithms. And I undersampled the data using the ClusterCentroids algorithm. Then, I used a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Then, I compared two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. The two libraries used in this project were imbalanced-learn and scikit-learn.
 
 #### Oversampling Methods
@@ -83,6 +83,6 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 <img width="659" alt="EEC 6" src="https://user-images.githubusercontent.com/88804543/145696965-fab627b5-19cd-4c2e-bf93-941738bb7340.png">
 
 
-
-
 ## Summary
+Of the models tested in this project, the Easy Ensemble Classifier had the highest accuracy score. However, this model had low precision. Low precision indicates that there would be more false positives. In this instance of looking to flag high-risk credit, we would not want low precision. This would reduce the number of good candidates, as more of the good candidates would be flagged as high-risk (false positive). Therefore none of the models used in this study should be applied to analyze credit risk. A model that is both accurate and precise would be more successful.
+
