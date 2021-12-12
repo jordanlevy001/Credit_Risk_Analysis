@@ -30,8 +30,15 @@ The first algorithm tested was random oversamping.
 
 <img width="666" alt="ROS 1" src="https://user-images.githubusercontent.com/88804543/145696692-2cc31b5d-230e-4993-9936-e6a7f9ec8347.png">
 
+### SMOTE
+The second algorithm tested was SMOTE. 
+- Accuracy score: 66% 
+- Precision: 1%
+- Sensitivity(Recall): 67%
+- F1 score: 2%
+- The low F1 score indicates a significant imbalance between precision and sensitivity.
 
-
+<img width="674" alt="SMOTE 2" src="https://user-images.githubusercontent.com/88804543/145696808-fdaf791a-6e5a-4b05-93fd-9d67731594fc.png">
 
 
 
