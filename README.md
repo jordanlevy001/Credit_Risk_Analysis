@@ -51,7 +51,7 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 <img width="682" alt="RUS 3" src="https://user-images.githubusercontent.com/88804543/145696832-29370970-7fea-4c86-a411-872ad666a5f7.png">
 
 
-### SMOTEEN
+### SMOTEENN
 
 - Accuracy score: 64% 
 - Precision: 1%
@@ -84,5 +84,7 @@ For this project I used the credit card credit dataset from LendingClub, a peer-
 
 
 ## Summary
+Most of the models tested in this study had low accuracy and low precision. The balanced random forest classifier and easy ensemble classifier had higher accuracy scores but low precision. All of the models had low F1 scores, which indicates a significant imbalance between precision and sensitivity.
+
 Of the models tested in this project, the Easy Ensemble Classifier had the highest accuracy score. However, this model had low precision. Low precision indicates that there would be more false positives. In this instance of looking to flag high-risk credit, we would not want low precision. This would reduce the number of good candidates, as more of the good candidates would be flagged as high-risk (false positive). Therefore none of the models used in this study should be applied to analyze credit risk. A model that is both accurate and precise would be more successful.
 
